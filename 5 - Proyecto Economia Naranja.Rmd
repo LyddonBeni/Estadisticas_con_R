@@ -1,0 +1,12 @@
+---
+title: "Proyecto Economia naranja"
+author: "Lyddon Beni"
+date: "24/5/2020"
+output: html_document
+---
+
+## Estructura de datos 
+```{r}
+str(mtcars)
+```
+

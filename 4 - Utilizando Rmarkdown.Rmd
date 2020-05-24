@@ -1,0 +1,26 @@
+---
+title: "Proyecto Economia Naranja"
+author: "Lyddon Beni Varje Esteban"
+date: "17/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# probando codigo
+5+2
+```
+
+# Install Rmakdown
+
+install.packages(rmarkdown)
+
+* Para introcudir chunk de R: `Ctrl`+`Alt`+`i`
+
+
+
+
+
