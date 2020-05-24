@@ -8,5 +8,6 @@ output: html_document
 ## Estructura de datos 
 ```{r}
 str(mtcars)
+?mtcars
 ```
 
