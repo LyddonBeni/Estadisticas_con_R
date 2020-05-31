@@ -1,0 +1,10 @@
+str(mtcars)
+class(mtcars$vs)
+mtcars$vs = as.logical(mtcars$vs)
+mtcars$am = as.logical(mtcars$am)
+class(mtcars$am)
+str(mtcars)
+
+str(orangeec)
+summary(orangeec)
+summary(mtcars)
